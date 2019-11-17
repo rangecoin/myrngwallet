@@ -1,4 +1,4 @@
-# MyBTCH wallet
+# MyRNG wallet
 MyRNG wallet is a client-side browser-based wallet for Rangecoin.
 
 
