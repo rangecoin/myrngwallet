@@ -1,5 +1,5 @@
 # MyRNG wallet
-MyRNG wallet is a client-side browser-based wallet for Rangecoin.
+MyRNG Wallet is a client-side Browser-Based Wallet For Rangecoin.
 
 
 # Running locally
